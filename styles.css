@@ -154,6 +154,7 @@ a {
   justify-content: center;
   align-items: center;
   transition: 0.3s;
+  cursor: pointer;
 }
 
 .social__item:hover {
